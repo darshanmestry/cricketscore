@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CricketScore", "CricketScore\CricketScore.csproj", "{A96E39C0-8EC3-47FF-9E67-3574E9887DE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A96E39C0-8EC3-47FF-9E67-3574E9887DE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96E39C0-8EC3-47FF-9E67-3574E9887DE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96E39C0-8EC3-47FF-9E67-3574E9887DE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96E39C0-8EC3-47FF-9E67-3574E9887DE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D513FAA1-625B-4E52-9828-074237645BD3}
+	EndGlobalSection
+EndGlobal
