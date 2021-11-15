@@ -74,8 +74,26 @@ namespace CricketScore
             Console.WriteLine("Enter No of Players Foreach Team:");
             NoOfPlayers = InputValidator.getNumericValue();
 
+
+
+            while (NoOfPlayers < 2)
+            {
+                Console.WriteLine("Invalid ip, min 2 players needed.");
+                NoOfPlayers = InputValidator.getNumericValue();
+            }
+
+
             Console.WriteLine("Enter No of Overs:");
             NoOfOvers = InputValidator.getNumericValue();
+
+
+            
+            while (NoOfOvers < 1)
+            {
+                Console.WriteLine("Invalid ip, min 1 over needed.");
+                NoOfOvers = InputValidator.getNumericValue(); 
+            }
+
         }
 
        
