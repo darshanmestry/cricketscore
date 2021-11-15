@@ -43,7 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="HelperMethods.cs" />
+    <Compile Include="Bowl.cs" />
+    <Compile Include="Innings.cs" />
+    <Compile Include="InputValidator.cs" />
+    <Compile Include="Match.cs" />
+    <Compile Include="Over.cs" />
     <Compile Include="Player.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

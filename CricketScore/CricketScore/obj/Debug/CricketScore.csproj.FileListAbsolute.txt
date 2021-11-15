@@ -5,10 +5,10 @@ C:\Users\dmestry\source\repos\CricketScore\CricketScore\obj\Debug\CricketScore.c
 C:\Users\dmestry\source\repos\CricketScore\CricketScore\obj\Debug\CricketScore.csproj.CoreCompileInputs.cache
 C:\Users\dmestry\source\repos\CricketScore\CricketScore\obj\Debug\CricketScore.exe
 C:\Users\dmestry\source\repos\CricketScore\CricketScore\obj\Debug\CricketScore.pdb
-C:\Users\dmestry\OneDrive - Intel Corporation\Documents\My Projects\Github\darshanmestry\cricketscore\CricketScore\CricketScore\obj\Debug\CricketScore.csprojAssemblyReference.cache
-C:\Users\dmestry\OneDrive - Intel Corporation\Documents\My Projects\Github\darshanmestry\cricketscore\CricketScore\CricketScore\obj\Debug\CricketScore.csproj.CoreCompileInputs.cache
-C:\Users\dmestry\OneDrive - Intel Corporation\Documents\My Projects\Github\darshanmestry\cricketscore\CricketScore\CricketScore\obj\Debug\CricketScore.exe
-C:\Users\dmestry\OneDrive - Intel Corporation\Documents\My Projects\Github\darshanmestry\cricketscore\CricketScore\CricketScore\obj\Debug\CricketScore.pdb
 C:\Users\dmestry\OneDrive - Intel Corporation\Documents\My Projects\Github\darshanmestry\cricketscore\CricketScore\CricketScore\bin\Debug\CricketScore.exe.config
 C:\Users\dmestry\OneDrive - Intel Corporation\Documents\My Projects\Github\darshanmestry\cricketscore\CricketScore\CricketScore\bin\Debug\CricketScore.exe
 C:\Users\dmestry\OneDrive - Intel Corporation\Documents\My Projects\Github\darshanmestry\cricketscore\CricketScore\CricketScore\bin\Debug\CricketScore.pdb
+C:\Users\dmestry\OneDrive - Intel Corporation\Documents\My Projects\Github\darshanmestry\cricketscore\CricketScore\CricketScore\obj\Debug\CricketScore.csproj.CoreCompileInputs.cache
+C:\Users\dmestry\OneDrive - Intel Corporation\Documents\My Projects\Github\darshanmestry\cricketscore\CricketScore\CricketScore\obj\Debug\CricketScore.exe
+C:\Users\dmestry\OneDrive - Intel Corporation\Documents\My Projects\Github\darshanmestry\cricketscore\CricketScore\CricketScore\obj\Debug\CricketScore.pdb
+C:\Users\dmestry\OneDrive - Intel Corporation\Documents\My Projects\Github\darshanmestry\cricketscore\CricketScore\CricketScore\obj\Debug\CricketScore.csprojAssemblyReference.cache
